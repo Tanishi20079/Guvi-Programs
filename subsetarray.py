@@ -9,7 +9,7 @@ for i in l2:
         c=0
         break
 if c==0:
-    print("no")
+    print("NO")
 else:
-    print("yes")
+    print("YES")
     
